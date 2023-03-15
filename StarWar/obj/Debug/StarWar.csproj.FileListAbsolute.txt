@@ -1,0 +1,10 @@
+C:\Users\Johnny\source\repos\StarWar\StarWar\bin\Debug\StarWar.exe.config
+C:\Users\Johnny\source\repos\StarWar\StarWar\bin\Debug\StarWar.exe
+C:\Users\Johnny\source\repos\StarWar\StarWar\bin\Debug\StarWar.pdb
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.Form1.resources
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.Properties.Resources.resources
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.csproj.GenerateResource.cache
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.exe
+C:\Users\Johnny\source\repos\StarWar\StarWar\obj\Debug\StarWar.pdb
